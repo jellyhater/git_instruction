@@ -104,5 +104,19 @@
 
 [Полное руководство Markdown для начинающих](https://ru.markdown.net.br/)  
 [Неплохая "шпаргалка" по Markdown](http://konvut.github.io/k50articles/)  
-[Официальная документация на Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+[Официальная документация на Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)  
 
+
+<!--  Информация о работе с удаленным репозиторием  -->
+
+</br>
+
+## **Работа с удаленным репозиторием**  
+
+При работе с удаленным репозиторием следует соблюдать определенные правила (авторизация при выполнении команды git push и т.п.)
+
+Для понимания вкратце:  
+<span style="color:yellow">*Git*</span> - это очень популярная **локальная программа**, одна из систем контроля версий.  
+<span style="color:yellow">*GitHub*</span> - это **онлайн сервис** для работы с удаленными репозиториями.
+
+## Основ
