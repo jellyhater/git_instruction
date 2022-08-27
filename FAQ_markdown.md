@@ -72,7 +72,7 @@ markdown is a great tool
 * git status - check status 
 * git v
 
-I dot't know what i'm doing.
+I ssssss Conflict
 
 + text" - commit changes with a comment "text" 
 * git log - view changes 
