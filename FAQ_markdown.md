@@ -102,4 +102,6 @@ Done!
 13. now the magic begins: use command ***git push*** 
 14. you can read, don't you? read instructions from Git and follow them (ok, if Git is a stupid machine, then what about you doing what it tells now?) 
 
-it will be something like: **
+*it will be something like: git push --set-upstream origin your_folder_name* 
+
+15. you did it! pulled a request to merge your work with original. Congratulations! 
