@@ -82,3 +82,23 @@ hehe
 Done!
 
 ## How to work with the remote repository 
+
+1. First thing to do is to **create your account** on GitHub 
+2. **fork** someone else's work, you will not do all stuff yourself right? 
+3. click that button **Fork** in the top right corner. You aren't blind, don't you? 
+4. copy the link of new fork, you need this for telling Git what to do, it's a stupid machine isn't it? 
+5. create the folder on your PC and open it with Git 
+6. check with ***git status*** that Git is not active in this folder 
+7. use command ***git clone*** 'link_of_a_fork(not_a_spoon_keep_attention!)' 
+
+*It will be something like: 'git clone https://github.com/Lexxx42/oh_yeah_baby.git'*
+
+8. open new folder with VSC or use command ***cd*** to switch folder, but it's tricky 
+9. alright, now create a new branch with ***git branch*** or ***git checkout -b*** with some cool name of a branch like *beast* or *heavy_metal* everyone now thinks you are based (based on what?) 
+10. ***git checkout*** on this branch, if you didn't 
+11. now you can go all nuts with and do what you want 
+12. remember to ***ctrl+s***, ***git add*** and ***git commit*** new stuff 
+13. now the magic begins: use command ***git push*** 
+14. you can read, don't you? read instructions from Git and follow them (ok, if Git is a stupid machine, then what about you doing what it tells now?) 
+
+it will be something like: **
