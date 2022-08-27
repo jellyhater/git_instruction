@@ -62,17 +62,17 @@ To create a blockquote, add a > in front of a paragraph.
 ## Conclusion 
 
 markdown is a great tool 
-1 
-2  Are you even trying to break this thing? 
-2 
-3 
+1. 
+2. 
+2. 
+3. 
 
 ## List of commands for Git 
 
 * git status - check status 
 * git v
 
-I dot't know what i'm doing.
+123
 
 + text" - commit changes with a comment "text" 
 * git log - view changes 
