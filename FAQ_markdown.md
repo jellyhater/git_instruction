@@ -105,3 +105,5 @@ Done!
 *it will be something like: git push --set-upstream origin your_folder_name* 
 
 15. you did it! pulled a request to merge your work with original. Congratulations! 
+
+Now i can delete my other branch and pull 
