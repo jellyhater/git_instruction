@@ -80,3 +80,5 @@ hehe
 * for more help with commands just use [google](https://www.google.com/) 
 
 Done!
+
+## How to work with the remote repository 
