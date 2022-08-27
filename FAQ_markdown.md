@@ -106,4 +106,4 @@ Done!
 
 15. you did it! pulled a request to merge your work with original. Congratulations! 
 
-Now i can delete my other branch and pull 
+16. now go to your GitHub profile and open pull request
