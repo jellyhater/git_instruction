@@ -4,3 +4,5 @@
 3. Создаём свою ветку для изменений по правилам хорошего тона. git branch (branch_name).
 4. save. git push.
 5. git pull request на GitHub.
+
+Fork  не видит текст в файле... 
