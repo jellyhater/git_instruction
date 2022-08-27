@@ -71,8 +71,9 @@ markdown is a great tool
 
 * git status - check status 
 * git v
-hehe 
-hehe 
+
+I dot't know what i'm doing.
+
 + text" - commit changes with a comment "text" 
 * git log - view changes 
 * git diff - preview changes 
