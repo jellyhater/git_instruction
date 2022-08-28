@@ -53,3 +53,10 @@ To add a link frame it with less/more signs (<>). For example:
 + Print in terminal "git branch -M (main branch name)"
 + Print in terminal "push -u origin main" (verification will be needed, follow the git instractions)
 
+**3. To take part in opensourse project:**
+1. Fork the project from GitHub to your own account
+2. Clone it to the local PC
+3. Create a new branch for changes
+4. Work on changes
+5. Push changes back to the remote repository
+6. Clik on "Compare and make a pull request" to send a pull request to the owner of the project.
