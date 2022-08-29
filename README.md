@@ -39,4 +39,4 @@
 
 [Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown.](https://gist.github.com/Jekins/2bf2d0638163f1294637#Links] )
 
-![Инструкция PullRequest](https://habr.com/ru/post/125999/)
+[Инструкция PullRequest](https://habr.com/ru/post/125999/)
