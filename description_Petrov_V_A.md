@@ -176,7 +176,7 @@ git help config
 6. Если хотим предложить свой вариант, то сначала **пушем в свой удаленный репозиторий**. Перейдя в удаленный репозиторий увидим, что появилась кнопка COMPARE & PULL REQUEST
 7. Добавляем описание и нажимаем на CREATE PULL REQUEST
 
-![pull request] (pull reques.jpg)
+![Это pull request](pull_reques.jpg)
 
 
 
