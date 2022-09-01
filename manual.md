@@ -1,0 +1,76 @@
+![space](data:image/jpeg;base64,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)
+# Настройка
+* Вы установили себе Git и можете им пользоваться. Давайте теперь его настроим, чтобы когда вы создавали *commit*, указывался **автор**, **кто его создал**.
+
+1. Установим имя для вашего пользователя
+Вместо <ваше_имя> можно ввести, например, Grisha_Popov
+Кавычки оставляем
+* *git config* --global user.name "<ваше_имя>"
+
+2. Теперь установим email. Принцип тот же.
+* *git config* --global user.email "<адрес_почты@email.com>"
+
+# Основные команды Git
+* *git init* – **инициализация локального репозитория**
+* *git status* – ***получить информацию от git о его текущем состоянии***
+* *git add* – ``добавить файл или файлы к следующему коммиту``
+* *git commit* -m “message” – создание коммита.
+* *git log* – вывод на экран истории всех коммитов с их хеш-кодами
+* *git checkout* – переход от одного коммита к другому
+* *git checkout master* – вернуться к актуальному состоянию и продолжить работу
+* *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
+* *git branch*, просмотр списка созданных веток
+* *git branch имя_ветки*, создание ветки
+* *git checkout имя_ветки*, переход между ветками
+* *git merge имя_ветки*, вносит данные из ветки, которую вызвали в ту, в который мы находимся
+* *git branch -d имя_ветки*, удаление ветки
+* *git log --graph*, наглядное отображение веток
+
+# Работа с ветками в Git
+
+## Просмотр списка веток
+ Для просмотра списка веток, необходимо ввести следующую команду:
+
+    git branch
+
+## Добавление ветки
+Для добавления новой ветки, необходимо ввести следующую команду:
+
+    git branch имя_ветки
+
+## Переход между ветками
+Для перехода между ветками, необходимо ввести команду:
+
+    git checkout имя_ветки
+
+## Сливание веток
+Для того чтобы слить ветки, необходимо ввести следующую команду:
+
+    git merge имя_ветки
+
+слияние происходит в ту ветку в которой мы находимся
+
+## Удаление ветки
+Для удаления веток, необходимо ввести следующую команду:
+
+    git branch -d имя_ветки
+
+# Отправка репозитория на GitHub
+Перед отправкой нужно создать репозиторий, потом создать первый *commit*.
+
+Связываем локальный репозиторий с репозиторием на GitHub
+
+* git remote add origin (адрес ссылки на GitHub)
+
+Переименовываем ветку master в локальном репозитории на main
+
+* git branch -M main
+
+Пушим наш репозиторий на GitHub
+
+* git push -u origin main
+
+
+Для копирования общедоступного репозитория нужно использовать команду:
+
+    git clone (ссылка на репозиторий в GitHub)
